@@ -2,13 +2,19 @@
 
 ## Objective
 
-This test task is created to assess the level of candidates applying for the QA Engineer vacancy at Pragmasoft.
+This test task is created to assess the level of candidates applying for the QA Engineer
+vacancy at Pragmasoft.
 
 It is designed to contain several challenges resembling the real-life daily work of a QA engineer.
 
-Time is not constrained; you can take as much time as you need to provide the best quality result. Results are assessed in the order of their submission, and we usually only have one open position, so the faster you submit, the higher your chances of being hired. We will try to assess and review all sufficiently completed results, but cannot 100% guarantee this.
+Time is not constrained; you can take as much time as you need to provide the best quality result.
+Results are assessed in the order of their submission, and we usually only have one open position,
+so the faster you submit, the higher your chances of being hired.
+We will try to assess and review all sufficiently completed results, but cannot 100% guarantee this.
 
-The result should be provided as a link to the public GitHub (or other git) repository in your public git profile. If you still don't have one, create one - it's free.
+The result should be provided as a link to the public GitHub (or other git) repository in your
+public git profile. If you still don't have one, create one - it's free. You can clone this
+repository as a template or create a new empty repository.
 
 Please use English language everywhere.
 
@@ -22,11 +28,20 @@ You need to follow the instructions [here](https://hub.docker.com/r/bkimminich/j
 
 ## Testing challenges
 
-👉🏻 Write a checklist to test the [Login form](http://localhost:3000/#/login). You can use Markdown, Wiki in your github repository, or any other convenient format as soon as it can be added to the repository (Text based formats are preferred).
+👉🏻 Write a checklist to test the [Login form](http://localhost:3000/#/login).
+You can use Markdown, Wiki in your github repository, or any other convenient format as soon as
+it can be added to the repository (Text based formats are preferred).
 
-👉🏻 Write a [Postman](https://www.postman.com/) collection with a test, demonstrating that Customer Feedback can be added bypassing the CAPTCHA verification. Export the Postman collection to json and add it to the git repository.
+![Customer Feedback Form](feedback.jpg "Customer Feedback Form")
 
-👉🏻 Report issues you found in the Juice Shop application to the Issues section of your github repository. Don't report many issues, just few of the most critical ones you found. Concentrate on the quality instead.
+👉🏻 Write a [Postman](https://www.postman.com/) collection with a test,
+demonstrating that Customer Feedback (see image above) can be added bypassing the CAPTCHA
+verification. Export the Postman collection to json and add it to the git repository.
+
+👉🏻 Report issues you found in the Customer Feedback Form to the Issues section of your github
+repository. Concentrate on the quality reporting of the few most severe issues, rather than reporting
+a lot of minor ones. If it's easier for you to find issues in other places of the application
+— report them instead.
 
 Good luck with the test task, hope you enjoy it.
 
